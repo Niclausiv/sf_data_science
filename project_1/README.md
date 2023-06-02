@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1: Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Niclausiv/sf_data_science/blob/main/project_1/README.md#Описание-проекта)  

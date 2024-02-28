@@ -1,14 +1,14 @@
 # HW-01 Задание 9.11. Модуль 13. Визуализация данных
 
 ## Оглавление  
-[1. Описание домашнего задания](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Описание-домашнего-задания)  
-[2. Условие домашнего задания](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Условие-домашнего-задания)  
-[3. Результат](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Результат)    
+[1. Описание домашнего задания](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Описание-домашнего-задания)  
+[2. Условие домашнего задания](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Условие-домашнего-задания)  
+[3. Результат](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Результат)    
 
 
 ### Описание домашнего задания    
 Представлены данные об оттоке клиентов некоторого банка. Банк обращается к вам за помощью: он хочет разработать кампанию лояльности по удержанию клиентов, но для этого ему необходимо, чтобы вы выяснили основные причины оттока клиентов. Иными словами, нужно установить, чем ушедшие клиенты отличаются от лояльных и как между собой связаны различные признаки, определяющие клиентов.
-:arrow_up:[к оглавлению](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01README.md#Оглавление)
 
 ### Условие домашнего задания    
 
@@ -19,9 +19,10 @@
 → Перед выполнением задания обязательно подумайте, какие признаки в данных являются числовыми, а какие — категориальными. Это поможет вам построить правильный график (ещё раз взгляните на схему выбора графика).
 
 → При выполнении заданий обязательно придерживайтесь критериев правильной визуализации, приведённых в юните «Искусство визуализации».
+:arrow_up:[к оглавлению](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Оглавление)
 
 
 ### Результат  
 Проведена визуализация. В ноубтуке представлены выводы по заданию. 
  
-:arrow_up:[к оглавлению](https://github.com/Niclausiv/sf_data_science/tree/main/Hw_01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Оглавление)

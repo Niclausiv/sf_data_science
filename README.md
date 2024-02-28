@@ -19,4 +19,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/courses/data
 
 * [HW-02 Задание 10.2. EDA-4 - Модуль 10. Практика. Статистические тесты в контексте EDA](https://github.com/Niclausiv/sf_data_science/tree/main/HW_02)
 
-*[# HW-03 Задание 5.5. EDA-5 - Модуль 5. Comet.ml на практике. Проектирование экспериментов.](https://github.com/Niclausiv/sf_data_science/tree/main/HW_03)
+* [# HW-03 Задание 5.5. EDA-5 - Модуль 5. Comet.ml на практике. Проектирование экспериментов.](https://github.com/Niclausiv/sf_data_science/tree/main/HW_03)

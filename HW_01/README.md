@@ -1,8 +1,8 @@
 # HW-01 Задание 9.11. Модуль 13. Визуализация данных
 
 ## Оглавление  
-[1. Описание домашнего задания](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Описание домашнего задания)  
-[2. Условие домашнего задания](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Условие домашнего задания)  
+[1. Описание домашнего задания](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Описание-домашнего-задания)  
+[2. Условие домашнего задания](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Условие-домашнего-задания)  
 [3. Результат](https://github.com/Niclausiv/sf_data_science/blob/main/Hw_01/README.md#Результат)    
 
 

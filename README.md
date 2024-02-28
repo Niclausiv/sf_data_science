@@ -11,3 +11,8 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/courses/data
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/Niclausiv/sf_data_science/tree/main/project_2)
 
 * [Проект 3. Прогнозирование рейтинга отеля на Booking](https://github.com/Niclausiv/sf_data_science/tree/main/project_3)
+
+
+## Домашние задания
+
+* [HW-01 Задание 9.11. Модуль 13. Визуализация данных](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01)

@@ -16,3 +16,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/courses/data
 ## Домашние задания
 
 * [HW-01 Задание 9.11. Модуль 13. Визуализация данных](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01)
+
+* [HW-02 Задание 10.2. EDA-4 - Модуль 10. Практика. Статистические тесты в контексте EDA](https://github.com/Niclausiv/sf_data_science/tree/main/HW_02)

@@ -1,8 +1,8 @@
 # HW-02 Задание 10.2. EDA-4 - Модуль 10. Практика. Статистические тесты в контексте EDA
 
 ## Оглавление  
-[1. Описание домашнего задания](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Описание-домашнего-задания)  
-[2. Условие домашнего задания](https://github.com/Niclausiv/sf_data_science/tree/main/HW_01/README.md#Условие-домашнего-задания)  
+[1. Описание домашнего задания](https://github.com/Niclausiv/sf_data_science/tree/main/HW_02/README.md#Описание-домашнего-задания)  
+[2. Условие домашнего задания](https://github.com/Niclausiv/sf_data_science/tree/main/HW_02/README.md#Условие-домашнего-задания)  
 [3. Результат](https://github.com/Niclausiv/sf_data_science/tree/main/HW_02/README.md#Результат)    
 
 
